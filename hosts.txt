@@ -1,0 +1,16 @@
+# Hosts para checagem de conectividade
+# Adicione IPs ou domínios, um por linha
+# Linhas começando com # são ignoradas
+
+# DNS públicos
+8.8.8.8
+1.1.1.1
+
+# Exemplos de domínios
+google.com
+example.com
+getnet.com.br
+
+# Adicione seus hosts/IPs aqui
+# 192.168.1.1
+# servidor-prod.local
